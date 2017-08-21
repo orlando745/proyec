@@ -1,0 +1,24 @@
+header, footer{
+	background: #5E66FF;
+	color: #64F192;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+.primero{
+	background: #AF89FD;
+	color: white;
+}
+.segundo{
+	background: #FF9C9C;
+	color: white;
+}
+.tercero{
+	background: #73FFA4;
+	color: black;
+}
+.cuarto{
+	background: #F3FC8F;
+	color: black;
+}
